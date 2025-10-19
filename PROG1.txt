@@ -8,3 +8,13 @@ cubierto-https://dle.rae.es/cubierto?m=form
 ordenador- https://dle.rae.es/ordenador?m=form
 silla-https://dle.rae.es/silla?m=form
 gorra-https://dle.rae.es/gorra?m=form
+lampara dle.rae.es/lampara
+zapato dle.rae.es/zapato
+cañeria dle.rae.es/cañeria
+vaso dle.rae.es/vaso
+viruela dle.rae.es/viruela
+casa dle.rae.es/casa
+pito dle.rae.es/pito
+garganta dle.rae.es/garganta
+hola dle.rae.es/hola
+rata dle.rae.es/rata
