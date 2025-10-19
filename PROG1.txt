@@ -1,0 +1,10 @@
+lampara-https://dle.rae.es/l%C3%A1mpara?m=form
+cañeria-https://dle.rae.es/ca%C3%B1er%C3%ADa?m=form
+zapato-https://dle.rae.es/zapato?m=form
+cabeza-https://dle.rae.es/cabeza?m=form
+talon -https://dle.rae.es/talon?m=form
+mesa-https://dle.rae.es/mesa?m=form
+cubierto-https://dle.rae.es/cubierto?m=form
+ordenador- https://dle.rae.es/ordenador?m=form
+silla-https://dle.rae.es/silla?m=form
+gorra-https://dle.rae.es/gorra?m=form
